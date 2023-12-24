@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@600&family=Poppins:wght@200;400;600&display=swap');
+
+*{
+  margin: 0;
+  padding: 0; 
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+/* // Error page */
+#error-page{
+  display: flex;
+  align-items: center;
+  justify-content: center;    
+}
+#error-page .content{
+  max-width: 70rem;
+  text-align: center;
+}
+
+.content h2{
+  font-size: 18vw;
+  line-height: 1em;
+  animation: animate 10s ease-in-out infinite;
+  background: -webkit-repeating-linear-gradient(-60deg, #71b7e6, var(--btn-color),teal, #ee8176,teal,var(--btn-color),#9b59b6);
+  background-size: 500%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color:palegreen;
+  text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.25);
+  position: relative;
+}
+@keyframes animate{
+  0%{
+      background-position: 0 0;
+  }
+  25%{
+      background-position: 100% 0;
+  }
+  50%{
+      background-position: 100% 100%;
+  }
+  75%{
+      background-position: 0 100%;
+  }
+  100%{
+      background-position: 0 0;
+  }
+}
+.content h4{
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
