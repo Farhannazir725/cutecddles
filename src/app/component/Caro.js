@@ -29,13 +29,13 @@ export default function Caro() {
         modules={[ Autoplay]}
         className="mySwiper"
       >
-        <SwiperSlide> <Link href='/products'><img src="./images/1.jpeg"  className="w-100 p-4 rounded d-block" height={300} width={300} alt="" /></Link></SwiperSlide>
-         <SwiperSlide><Link href='/products'><img src="./images/2.jpeg"  className="w-100 p-4 rounded d-block" height={300} width={300} alt="" /></Link></SwiperSlide>
-        <SwiperSlide><Link href='/products'><img src="./images/3.jpeg"  className="w-100 p-4 rounded d-block" height={300} width={300} alt="" /></Link></SwiperSlide>
-        <SwiperSlide><Link href='/products'><img src="./images/5.jpeg" className="w-100 p-4 rounded d-block" height={300} width={300} alt="" /></Link></SwiperSlide>
-        <SwiperSlide><Link href='/products'><img src="./images/1.jpeg" className="w-100 p-4 rounded d-block" height={300} width={300} alt="" /></Link></SwiperSlide>
-        <SwiperSlide><Link href='/products'><img src="./images/1.jpeg" className="w-100 p-4 rounded d-block" height={300} width={300} alt="" /></Link></SwiperSlide>
-        <SwiperSlide><Link href='/products'><img src="./images/1.jpeg" className="w-100 p-4 rounded d-block" height={300} width={300} alt="" /></Link></SwiperSlide> 
+        <SwiperSlide> <Link href='/products'><img src="./images/20.jpg"  className="w-100 p-4 rounded d-block" height={300} width={300} alt="" /></Link></SwiperSlide>
+         <SwiperSlide><Link href='/products'><img src="./images/21.jpg"  className="w-100 p-4 rounded d-block" height={300} width={300} alt="" /></Link></SwiperSlide>
+        <SwiperSlide><Link href='/products'><img src="./images/22.jpg"  className="w-100 p-4 rounded d-block" height={300} width={300} alt="" /></Link></SwiperSlide>
+        <SwiperSlide><Link href='/products'><img src="./images/23.jpg" className="w-100 p-4 rounded d-block" height={300} width={300} alt="" /></Link></SwiperSlide>
+        <SwiperSlide><Link href='/products'><img src="./images/24.jpg" className="w-100 p-4 rounded d-block" height={300} width={300} alt="" /></Link></SwiperSlide>
+        <SwiperSlide><Link href='/products'><img src="./images/30.jpg" className="w-100 p-4 rounded d-block" height={300} width={300} alt="" /></Link></SwiperSlide>
+        <SwiperSlide><Link href='/products'><img src="./images/31.jpg" className="w-100 p-4 rounded d-block" height={300} width={300} alt="" /></Link></SwiperSlide> 
        
       </Swiper>
       
@@ -49,7 +49,7 @@ export default function Caro() {
         <div className="row">
           <div className="col-lg-3 col-md-6 my-3" >
           <div className="card mt-4 mx-2" >
-             <Link href='/products'>  <img src='./images/1.jpeg' className="card-img-top" height='300' width='300' alt="..."/></Link>
+             <Link href='/products'>  <img src='./images/21.jpg' className="card-img-top" height='300' width='300' alt="..."/></Link>
               
              </div>
           </div>

@@ -13,12 +13,9 @@ export default function page() {
 <div className="container mt-4 ">
   <div className="row justify-content-between align ">
   <div className="col-lg-6 col-md-5 mb-4 order-lg-1 order-md-1 order-2">
-    <h3 className="mb-3 mt-4">Lorem ipsum dolor sit.</h3>
+    <h3 className="mb-3 mt-4">Our Starting</h3>
     <p>
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-       Mollitia odio non voluptas id saepe dolore nisi.
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-       Mollitia odio non voluptas id saepe dolore nisi.
+    Toy heaven for kids- This is the only motive to kickstart a passionate dream called cute cuddles. Dream to ensure every kid gets access to mindblowing and essential toys that are both developmental and super fun at affordable prices!
       
       </p>
       </div>
