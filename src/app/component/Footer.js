@@ -2,8 +2,8 @@ import React from 'react'
 import Link from 'next/link';
 export default function Footer() {
   return (
-    <>
-<div className="container-fluid  bg-white mt-5 ">
+    <div className='bg-light'>
+<div className="container  bg-white mt-5  mb-5">
 <div className="row">
    <div className="col-lg-4 p-4 ">
     <h3 className="h-font fw-bold fs-3 mb-2">CuteCuddles</h3>
@@ -12,11 +12,11 @@ export default function Footer() {
 
    <div className="col-lg-4 p-4">
     <h5 className="mb-3">Links</h5>
-    <Link href="#" className="d-inline-block mb-2 text-dark text-decoration-none">Home</Link><br/>
-    <Link href="#" className="d-inline-block mb-2 text-dark text-decoration-none">About</Link><br/>
-    <Link href="#" className="d-inline-block mb-2 text-dark text-decoration-none">Contact</Link><br/>
-    <Link href="#" className="d-inline-block mb-2 text-dark text-decoration-none">Products</Link><br/>
-    <Link href="#" className="d-inline-block mb-2 text-dark text-decoration-none">About</Link>
+    <Link href="/" className="d-inline-block mb-2 text-dark text-decoration-none">Home</Link><br/>
+    <Link href="/about" className="d-inline-block mb-2 text-dark text-decoration-none">About</Link><br/>
+    <Link href="/contact" className="d-inline-block mb-2 text-dark text-decoration-none">Contact</Link><br/>
+    <Link href="products" className="d-inline-block mb-2 text-dark text-decoration-none">Products</Link><br/>
+   
    </div>
 
    <div className="col-lg-4 p-4">
@@ -32,6 +32,6 @@ export default function Footer() {
 
 
     <h6 className="text-center bg-dark text-white p-3 m-0">Desing and Developed By CuteCuddels</h6>
-    </>
+    </div>
   )
 }

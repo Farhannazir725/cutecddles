@@ -6,6 +6,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
 /* // Error page */
 #error-page{
   display: flex;
@@ -48,4 +49,9 @@
 .content h4{
   margin-bottom: 20px;
   font-size: 2rem;
+}
+@media (width <= 450px) {
+  .dis{
+    display: none;
+  }
 }

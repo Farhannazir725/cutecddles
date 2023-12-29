@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <>
     
-<nav className="navbar navbar-expand-lg navbar-light bg-light">
+<nav className="navbar navbar-expand-lg navbar-light bg-white px-lg-3 py-lg-2 shadow-sm sticky-top">
   <div className="container-fluid">
     <a className="navbar-brand" href="/">CuteCuddles</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -30,12 +30,12 @@ export default function Navbar() {
         </li>
       </ul>
       <form className="d-flex">
-      <button type="button" className="btn btn-outline-dark shadow-none mg-lg-2 me-3" data-bs-toggle="modal" data-bs-target="#loginModal">
+      {/* <button type="button" className="btn btn-outline-dark shadow-none mg-lg-2 me-3" data-bs-toggle="modal" data-bs-target="#loginModal">
          Login
             </button>
       <button type="button" className="btn btn-outline-dark shadow-none mg-lg-2 me-3" >
          Register
-            </button>
+            </button> */}
 
       </form>
       

@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function page() {
   return (
-    <>
+    <div className='bg-light'>
   <div className="my-5 px-4 mb-4 ">
   <h2 className="fw-bold h-font text-center">About Us</h2>
   <hr width="150px" height="2px" style={{margin: '0 auto', backgroundColor: 'dark'}}/>
@@ -31,6 +31,6 @@ export default function page() {
 
 
 
-    </>
+    </div>
   )
 }
