@@ -1,6 +1,6 @@
 import Caro from "./component/Caro";
 import Demo from "./component/Demo";
-
+import Product from './products/page'
 
 
 export default function Home() {
@@ -8,6 +8,8 @@ export default function Home() {
     <>
    <Demo/>
    <Caro/>
+   <Product/>
+   
                      {/* <!-- Reach Us --> */}
  <h1 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">Reach Us</h1>
 

@@ -1,202 +1,132 @@
 [
     {
-    "id":"21",
-    "image" : "./images/21.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"22",
-    "image" : "./images/22.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"23",
-    "image" : "./images/23.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"24",
-    "image" : "./images/24.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"5",
-    "image" : "./images/5.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"6",
-    "image" : "./images/6.jpeg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"7",
-    "image" : "./images/7.jpeg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"8",
-    "image" : "./images/8.jpeg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"9",
-    "image" : "./images/9.jpeg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"10",
-    "image" : "./images/10.jpeg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"11",
-    "image" : "./images/11.jpeg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"12",
-    "image" : "./images/12.jpeg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"13",
-    "image" : "./images/13.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"14",
-    "image" : "./images/14.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"15",
-    "image" : "./images/15.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"16",
-    "image" : "./images/16.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"17",
-    "image" : "./images/17.jpeg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"18",
-    "image" : "./images/18.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"19",
-    "image" : "./images/19.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
-    "id":"20",
-    "image" : "./images/20.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
-    },
-    {
     "id":"1",
-    "image" : "./images/1.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
+    "name":"Mobile Holder for Car Dashboard",
+    "disc":"40%",
+    "image" : "./images/f1.jpg",
+    "price" : "800 ₹",
+    "discp":"480 ₹",
+    "desc":"Super Hero for Car Dashboard & Office Desk Companion"
     },
     {
     "id":"2",
-    "image" : "./images/2.jpeg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
+    "name":"Plush Kids Sofa yellow Pikachu",
+    "disc":"55%",
+    "image" : "./images/f2.jpg",
+    "price" : "1800 ₹",
+    "discp":"810 ₹",
+    "desc":"Toddler sitting Sofa chair nursery pillow protectors for 0-4 Years."
     },
     {
     "id":"3",
-    "image" : "./images/3.jpeg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
+    "name":"Rocking Chair for Kids Upto 24months",
+    "disc":"55%",
+    "image" : "./images/f3.jpg",
+    "price" : "1800 ₹",
+    "discp":"810 ₹",
+    "desc":"Baby sitting chair nursery pillow protectors for 3-48 months"
     },
     {
     "id":"4",
-    "image" : "./images/4.jpeg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
+    "name":"Plush Soft Toys for Kids Birthday Gift 26",
+    "disc":" BIG DOG -500 ₹ DIsCOUNT – 25% ",
+    "image" : "./images/f4.jpg",
+    "price" : "SMALL – 350 ₹ DISCOUNT – 20% ",
+    "discp":"Bit 375 ₹ Small 280 ₹",
+    "desc":"Animal themeCute dog"
     },
     {
-    "id":"25",
-    "image" : "./images/25.jpg",
-    "price" : "1000",
-    "desc":"Multicolour 5 Rings for Toddlers for 6 Months+ Boys and Girls"
+    "id":"5",
+    "name":"Cute Elephant Plush Soft Toys",
+    "disc":"30%",
+    "image" : "./images/f5.jpg",
+    "price" : " 550 ₹  ",
+    "discp":"385 ₹",
+    "desc":"Animal theme Elephant"
     },
     {
-    "id":"26",
-    "image" : "./images/26.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
+    "id":"6",
+    "name":"Kids Fiber Foldable Cartoon Princess Sofa ",
+    "disc":"55%",
+    "image" : "./images/f6.jpg",
+    "price" : "1800 ₹  ",
+    "discp":"810 ₹",
+    "desc":"Cum Bed Small Baby Sofa Chair for Room Decoration Gift Purpose (0-2 Years)-Pink"
     },
     {
-    "id":"27",
-    "image" : "./images/27.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
+    "id":"7",
+    "name":"Battery Operated Educational Learning Laptop ",
+    "disc":"30%",
+    "image" : "./images/f7.jpg",
+    "price" : "600 ₹  ",
+    "discp":"420 ₹",
+    "desc":"Toy with LED Display and Music Effect"
     },
     {
-    "id":"28",
-    "image" : "./images/28.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
+    "id":"8",
+    "name":" Minion Plush Soft Toys for Kids Birthday  ",
+    "disc":" Small 500 ₹ 25%",
+    "image" : "./images/f8.jpg",
+    "price" : " Big-600 ₹ Discount  45% ",
+    "discp":"Big 330 ₹ Small 375 ₹",
+    "desc":"Animal theme Minion"
     },
     {
-    "id":"29",
-    "image" : "./images/29.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
+    "id":"9",
+    "name":"Plush Soft Toys for Kids Birthday Gift ",
+    "disc":" 20%",
+    "image" : "./images/f9.jpg",
+    "price" : " 500 ₹ ",
+    "discp":"400 ₹",
+    "desc":"Animal theme Elephant maa bachcha"
+    },
+  
+    {
+    "id":"10",
+    "name":"Talking Baby Flash Cards ",
+    "disc":" 50%",
+    "image" : "./images/f10.jpg",
+    "price" : " 790 ₹ ",
+    "discp":"395 ₹",
+    "desc":"Learning Resource Electronic Interactive Toys for 2-4 Year Old Boys Girls Toddlers Kids Birthday Gift"
     },
     {
-    "id":"30",
-    "image" : "./images/30.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
+    "id":"11",
+    "name":"Talking Cactus for Kids Dancing Cactus ",
+    "disc":" 45%",
+    "image" : "./images/f11.jpg",
+    "price" : " 800 ₹ ",
+    "discp":"440 ₹",
+    "desc":"Toys Can Sing Wriggle & Singing Recording Repeat What You Say Funny Education Toys"
     },
     {
-    "id":"31",
-    "image" : "./images/31.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
+    "id":"12",
+    "name":"Tortoise Plush Soft Toys for Kids Birthday Gift ",
+    "disc":" Small 450 ₹ Discount 20%",
+    "image" : "./images/f12.jpg",
+    "price" : "Big 700 ₹ Discount 25% ",
+    "discp":"Big 525 ₹ Small 360 ₹",
+    "desc":"Animal theme tortoise"
     },
     {
-    "id":"32",
-    "image" : "./images/32.jpg",
-    "price" : "1000",
-    "desc":"Talking Cactus for Kids Dancing Cactus Toys Can Sing Wriggle & Singing Recording Repeat What You Say Funny Education Toys"
+    "id":"13",
+    "name":"Unicorn Plush Soft Toys for Kids Birthday Gift  ",
+    "disc":" Small 400 ₹ Discount 30%",
+    "image" : "./images/f13.jpg",
+    "price" : "Big 700 ₹ Discount 35% ",
+    "discp":"Big 455 ₹ Small 280 ₹",
+    "desc":"Animal theme Unicorn"
     },
     {
-    "id":"33",
-    "image" : "./images/33.jpg",
-    "price" : "1000",
-    "desc":"Discover the magic of playtime with our carefully curated selection, ranging from cuddly stuffed animals and educational games to interactive gadgets and timeless board games."
+    "id":"14",
+    "name":"Writable LCD Writing Tablet Pad with Screen 21.5cm ",
+    "disc":"20%",
+    "image" : "./images/f14.jpg",
+    "price" : " 140 ₹  ",
+    "discp":"112 ₹",
+    "desc":"for Drawing, Playing, Handwriting Best Birthday Gifts for Adults & Kids Girls Boys, Multicolour"
     }
+  
 
 
 ]
